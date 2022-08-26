@@ -14,5 +14,3 @@ Connect AWS Route 53 domain name
 Modify website and push using GIT to remote repo
 Double check changes on AWS Aplify
 
-
-test test
